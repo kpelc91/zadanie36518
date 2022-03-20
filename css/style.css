@@ -1,0 +1,13 @@
+h1 {
+    width: 300px;
+    height: 600px;
+    color:aliceblue;
+    background-color: #808080;
+}
+
+div {
+    width: 100px;
+    height: 100px;
+    background-color:#fea500;
+    margin-left: 50px;
+}
