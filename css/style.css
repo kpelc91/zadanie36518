@@ -1,14 +1,18 @@
-h1 {
+.container {
     width: 300px;
-    height: 600px;
+    height: 550px;
     color:aliceblue;
     background-color: #808080;
 }
 
-div {
+h1 {
+    margin-left: 18px;
+}
+
+.square {
     width: 100px;
     height: 100px;
     background-color:#fea500;
-    margin-left: 50px;
+    margin-left: 30px;
     margin-bottom: 10px;
 }
